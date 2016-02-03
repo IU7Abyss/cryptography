@@ -4,6 +4,10 @@
 
 ## Getting
 
+### Example for LW
+
 ```
-$ go get github.com/IU7Abyss/cryptography/02-enigma
+$ go get github.com/IU7Abyss/cryptography/02-enigma/examples/rand-enigma
+$ cd $GOPATH/src/github.com/IU7Abyss/cryptography/02-enigma/examples/rand-enigma
+$ ./run.sh
 ```
